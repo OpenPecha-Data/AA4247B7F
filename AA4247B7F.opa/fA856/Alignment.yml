@@ -1,0 +1,19 @@
+segment_sources:
+  ID84D88DD:
+    type: origin_type
+    relation: translation
+    language: en
+  I07DFFB68:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d8a0de0a2e89475c8ccdfeb3fd21e048:
+    ID84D88DD: 4dd48bd9c45d40ad8e5ca53adafaf8d9
+    I07DFFB68: f58d9cbcde954fa7bb3fc8f92d4215ce
+  d689c536a4a846f0ab15f8decdbd7c6c:
+    ID84D88DD: 1ab5d006575348eab7644cc7914cc747
+    I07DFFB68: 62509e95019a4331bc27b8c74cce6303
+  73950d63bb19453fab5dc1e47abede11:
+    ID84D88DD: dadf15d62ea64d5ca0028274bf5e1604
+    I07DFFB68: 9c339bc1a5ee47a7a7f981a740412a46
